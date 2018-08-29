@@ -1,92 +1,92 @@
 [
   {
     "itemName": "Chicken Soup",
-    "image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
-    "price": "$20.00"
+    "itemImage": "https://api.androidhive.info/json/images/tom_hardy.jpg",
+    "itemPrice": "$20.00"
   },
   {
     "itemName": "Carazongalla Salad",
-    "image": "https://api.androidhive.info/json/images/johnny.jpg",
-    "price": "$20.00"
+    "itemImage": "https://api.androidhive.info/json/images/johnny.jpg",
+    "itemPrice": "$20.00"
   },
   {
     "itemName": "Double Chicken Burger",
-    "image": "https://api.androidhive.info/json/images/tom_cruise.jpg",
-    "price": "$20.00"
+    "itemImage": "https://api.androidhive.info/json/images/tom_cruise.jpg",
+    "itemPrice": "$20.00"
   },
   {
     "itemName": "House Cheese Burger",
-    "image": "https://api.androidhive.info/json/images/keira.jpg",
-    "price": "$20.00"
+    "itemImage": "https://api.androidhive.info/json/images/keira.jpg",
+    "itemPrice": "$20.00"
   },
   {
     "itemName": "Lamb Burger",
-    "image": "https://api.androidhive.info/json/images/robert_de.jpg",
-    "price": "$20.00"
+    "itemImage": "https://api.androidhive.info/json/images/robert_de.jpg",
+    "itemPrice": "$20.00"
   },
   {
     "itemName": "Chicken Shawarma",
-    "image": "https://api.androidhive.info/json/images/leonardo.jpg",
-    "price": "$20.00"
+    "itemImage": "https://api.androidhive.info/json/images/leonardo.jpg",
+    "itemPrice": "$20.00"
   },
   {
     "itemName": "Beef Kabob Roll",
-    "image": "https://api.androidhive.info/json/images/will.jpg",
-    "price": "$20.00"
+    "itemImage": "https://api.androidhive.info/json/images/will.jpg",
+    "itemPrice": "$20.00"
   },
   {
     "itemName": "Magic Mushroom Pizza",
-    "image": "https://api.androidhive.info/json/images/russell.jpg",
-    "price": "$20.00"
+    "itemImage": "https://api.androidhive.info/json/images/russell.jpg",
+    "itemPrice": "$20.00"
   },
   {
     "itemName": "Margharita Pizza",
-    "image": "https://api.androidhive.info/json/images/brad.jpg",
-    "price": "$20.00"
+    "itemImage": "https://api.androidhive.info/json/images/brad.jpg",
+    "itemPrice": "$20.00"
   },
   {
     "itemName": "House Cobb Salad",
-    "image": "https://api.androidhive.info/json/images/angelina.jpg",
-    "price": "$20.00"
+    "itemImage": "https://api.androidhive.info/json/images/angelina.jpg",
+    "itemPrice": "$20.00"
   },
   {
     "itemName": "Chicken Nuggets",
-    "image": "https://api.androidhive.info/json/images/kate.jpg",
-    "price": "$20.00"
+    "itemImage": "https://api.androidhive.info/json/images/kate.jpg",
+    "itemPrice": "$20.00"
   },
   {
     "itemName": "Kids Meal Grilled Cheese",
-    "image": "https://api.androidhive.info/json/images/christian.jpg",
-    "price": "$20.00"
+    "itemImage": "https://api.androidhive.info/json/images/christian.jpg",
+    "itemPrice": "$20.00"
   },
   {
     "itemName": "Capaccino",
-    "image": "https://api.androidhive.info/json/images/morgan.jpg",
-    "price": "$20.00"
+    "itemImage": "https://api.androidhive.info/json/images/morgan.jpg",
+    "itemPrice": "$20.00"
   },
   {
     "itemName": "Straight Coffee",
-    "image": "https://api.androidhive.info/json/images/hugh.jpg",
-    "price": "$20.00"
+    "itemImage": "https://api.androidhive.info/json/images/hugh.jpg",
+    "itemPrice": "$20.00"
   },
   {
     "itemName": "Super Duper Burrito Extreme",
-    "image": "https://api.androidhive.info/json/images/keanu.jpg",
-    "price": "$20.00"
+    "itemImage": "https://api.androidhive.info/json/images/keanu.jpg",
+    "itemPrice": "$20.00"
   },
   {
     "itemName": "Lentil Soup",
-    "image": "https://api.androidhive.info/json/images/tom.jpg",
-    "price": "$20.00"
+    "itemImage": "https://api.androidhive.info/json/images/tom.jpg",
+    "itemPrice": "$20.00"
   },
   {
     "itemName": "Pinapple Chocolate Cake",
-    "image": "https://api.androidhive.info/json/images/scarlett.jpg",
-    "price": "$20.00"
+    "itemImage": "https://api.androidhive.info/json/images/scarlett.jpg",
+    "itemPrice": "$20.00"
   },
   {
     "itemName": "Double Chocolate Cake",
-    "image": "https://api.androidhive.info/json/images/robert.jpg",
-    "price": "$20.00"
+    "itemImage": "https://api.androidhive.info/json/images/robert.jpg",
+    "itemPrice": "$20.00"
   }
 ]
