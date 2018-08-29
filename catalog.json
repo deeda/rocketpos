@@ -1,91 +1,91 @@
 [
   {
-    "name": "Chicken Soup",
+    "itemName": "Chicken Soup",
     "image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
     "price": "$20.00"
   },
   {
-    "name": "Carazongalla Salad",
+    "itemName": "Carazongalla Salad",
     "image": "https://api.androidhive.info/json/images/johnny.jpg",
     "price": "$20.00"
   },
   {
-    "name": "Double Chicken Burger",
+    "itemName": "Double Chicken Burger",
     "image": "https://api.androidhive.info/json/images/tom_cruise.jpg",
     "price": "$20.00"
   },
   {
-    "name": "House Cheese Burger",
+    "itemName": "House Cheese Burger",
     "image": "https://api.androidhive.info/json/images/keira.jpg",
     "price": "$20.00"
   },
   {
-    "name": "Lamb Burger",
+    "itemName": "Lamb Burger",
     "image": "https://api.androidhive.info/json/images/robert_de.jpg",
     "price": "$20.00"
   },
   {
-    "name": "Chicken Shawarma",
+    "itemName": "Chicken Shawarma",
     "image": "https://api.androidhive.info/json/images/leonardo.jpg",
     "price": "$20.00"
   },
   {
-    "name": "Beef Kabob Roll",
+    "itemName": "Beef Kabob Roll",
     "image": "https://api.androidhive.info/json/images/will.jpg",
     "price": "$20.00"
   },
   {
-    "name": "Magic Mushroom Pizza",
+    "itemName": "Magic Mushroom Pizza",
     "image": "https://api.androidhive.info/json/images/russell.jpg",
     "price": "$20.00"
   },
   {
-    "name": "Margharita Pizza",
+    "itemName": "Margharita Pizza",
     "image": "https://api.androidhive.info/json/images/brad.jpg",
     "price": "$20.00"
   },
   {
-    "name": "House Cobb Salad",
+    "itemName": "House Cobb Salad",
     "image": "https://api.androidhive.info/json/images/angelina.jpg",
     "price": "$20.00"
   },
   {
-    "name": "Chicken Nuggets",
+    "itemName": "Chicken Nuggets",
     "image": "https://api.androidhive.info/json/images/kate.jpg",
     "price": "$20.00"
   },
   {
-    "name": "Kids Meal Grilled Cheese",
+    "itemName": "Kids Meal Grilled Cheese",
     "image": "https://api.androidhive.info/json/images/christian.jpg",
     "price": "$20.00"
   },
   {
-    "name": "Capaccino",
+    "itemName": "Capaccino",
     "image": "https://api.androidhive.info/json/images/morgan.jpg",
     "price": "$20.00"
   },
   {
-    "name": "Straight Coffee",
+    "itemName": "Straight Coffee",
     "image": "https://api.androidhive.info/json/images/hugh.jpg",
     "price": "$20.00"
   },
   {
-    "name": "Super Duper Burrito Extreme",
+    "itemName": "Super Duper Burrito Extreme",
     "image": "https://api.androidhive.info/json/images/keanu.jpg",
     "price": "$20.00"
   },
   {
-    "name": "Lentil Soup",
+    "itemName": "Lentil Soup",
     "image": "https://api.androidhive.info/json/images/tom.jpg",
     "price": "$20.00"
   },
   {
-    "name": "Pinapple Chocolate Cake",
+    "itemName": "Pinapple Chocolate Cake",
     "image": "https://api.androidhive.info/json/images/scarlett.jpg",
     "price": "$20.00"
   },
   {
-    "name": "Double Chocolate Cake",
+    "itemName": "Double Chocolate Cake",
     "image": "https://api.androidhive.info/json/images/robert.jpg",
     "price": "$20.00"
   }
