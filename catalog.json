@@ -2,91 +2,91 @@
   {
     "name": "Chicken Soup",
     "image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
-    "phone": "(541) 754-3010"
+    "price": "$20.00"
   },
   {
     "name": "Carazongalla Salad",
     "image": "https://api.androidhive.info/json/images/johnny.jpg",
-    "phone": "(452) 839-1210"
+    "price": "$20.00"
   },
   {
     "name": "Double Chicken Burger",
     "image": "https://api.androidhive.info/json/images/tom_cruise.jpg",
-    "phone": "(541) 453-2311"
+    "price": "$20.00"
   },
   {
     "name": "House Cheese Burger",
     "image": "https://api.androidhive.info/json/images/keira.jpg",
-    "phone": "(535) 324-4334"
+    "price": "$20.00"
   },
   {
     "name": "Lamb Burger",
     "image": "https://api.androidhive.info/json/images/robert_de.jpg",
-    "phone": "(767) 544-8867"
+    "price": "$20.00"
   },
   {
     "name": "Chicken Shawarma",
     "image": "https://api.androidhive.info/json/images/leonardo.jpg",
-    "phone": "(564) 333-2452"
+    "price": "$20.00"
   },
   {
     "name": "Beef Kabob Roll",
     "image": "https://api.androidhive.info/json/images/will.jpg",
-    "phone": "(541) 879-3453"
+    "price": "$20.00"
   },
   {
     "name": "Magic Mushroom Pizza",
     "image": "https://api.androidhive.info/json/images/russell.jpg",
-    "phone": "(234) 234-3321"
+    "price": "$20.00"
   },
   {
     "name": "Margharita Pizza",
     "image": "https://api.androidhive.info/json/images/brad.jpg",
-    "phone": "(567) 754-8945"
+    "price": "$20.00"
   },
   {
     "name": "House Cobb Salad",
     "image": "https://api.androidhive.info/json/images/angelina.jpg",
-    "phone": "(324) 754-5433"
+    "price": "$20.00"
   },
   {
     "name": "Chicken Nuggets",
     "image": "https://api.androidhive.info/json/images/kate.jpg",
-    "phone": "(788) 343-3433"
+    "price": "$20.00"
   },
   {
     "name": "Kids Meal Grilled Cheese",
     "image": "https://api.androidhive.info/json/images/christian.jpg",
-    "phone": "(865) 755-3555"
+    "price": "$20.00"
   },
   {
     "name": "Capaccino",
     "image": "https://api.androidhive.info/json/images/morgan.jpg",
-    "phone": "(445) 776-9076"
+    "price": "$20.00"
   },
   {
     "name": "Straight Coffee",
     "image": "https://api.androidhive.info/json/images/hugh.jpg",
-    "phone": "(544) 454-4544"
+    "price": "$20.00"
   },
   {
     "name": "Super Duper Burrito Extreme",
     "image": "https://api.androidhive.info/json/images/keanu.jpg",
-    "phone": "(454) 455-5445"
+    "price": "$20.00"
   },
   {
     "name": "Lentil Soup",
     "image": "https://api.androidhive.info/json/images/tom.jpg",
-    "phone": "(541) 454-4544"
+    "price": "$20.00"
   },
   {
     "name": "Pinapple Chocolate Cake",
     "image": "https://api.androidhive.info/json/images/scarlett.jpg",
-    "phone": "(545) 454-2567"
+    "price": "$20.00"
   },
   {
     "name": "Double Chocolate Cake",
     "image": "https://api.androidhive.info/json/images/robert.jpg",
-    "phone": "(444) 444-4444"
+    "price": "$20.00"
   }
 ]
