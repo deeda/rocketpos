@@ -14,15 +14,9 @@ h1 {
   line-height: 26.4px;
 }
 
-body,
-html {
-  position: fixed;
-}
-
 body {
   font-family: sans-serif;
   background-color: black;
-  position: fixed;
 }
 
 .carousel {
