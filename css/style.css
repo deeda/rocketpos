@@ -1,0 +1,43 @@
+/* external css: flickity.css */
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: Lato;
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  color: #fff;
+  font-weight: 700;
+  line-height: 26.4px;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: black;
+}
+
+.carousel {
+  background: #000;
+}
+
+.carousel-cell {
+  width: 66%;
+  height: 800px;
+  margin-right: 10px;
+  background: #8c8;
+  border-radius: 5px;
+  counter-increment: carousel-cell;
+}
+
+/* cell number */
+.carousel-cell:before {
+  display: block;
+  text-align: center;
+  content: counter(carousel-cell);
+  line-height: 200px;
+  font-size: 100px;
+  color: black;
+}
