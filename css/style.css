@@ -24,15 +24,16 @@ body {
 }
 
 .carousel-cell {
-  width: 66%;
+  width: 86%;
   height: 300px;
   margin-right: 10px;
   background: #8c8;
   border-radius: 5px;
-  counter-increment: carousel-cell;
+  background-position: center center;
+  background-size: cover;
 }
 
-/* cell number */
+/* cell number
 .carousel-cell:before {
   display: block;
   text-align: center;
@@ -40,4 +41,4 @@ body {
   line-height: 200px;
   font-size: 100px;
   color: black;
-}
+} */
