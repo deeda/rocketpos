@@ -34,7 +34,12 @@ body {
 }
 
 .flickity-page-dots .dot {
-  background: #999999;
+  background: #fff;
+  opacity: 0.33;
+}
+
+.flickity-page-dots .dot.is-selected {
+  opacity: 0.65;
 }
 
 /* cell number
