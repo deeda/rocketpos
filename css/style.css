@@ -33,6 +33,10 @@ body {
   background-size: cover;
 }
 
+.flickity-page-dots .dot {
+  background: #707070;
+}
+
 /* cell number
 .carousel-cell:before {
   display: block;
