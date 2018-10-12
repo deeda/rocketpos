@@ -17,6 +17,16 @@ h1 {
 body {
   font-family: sans-serif;
   background-color: black;
+  margin: 0;
+  scroll-snap-type: y mandatory;
+  overflow-y: scroll;
+}
+
+section {
+  padding: 7em;
+  height: calc(100vh - 14em);
+  color: white;
+  scroll-snap-align: start;
 }
 
 .carousel {
