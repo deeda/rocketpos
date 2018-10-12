@@ -23,9 +23,7 @@ body {
 }
 
 section {
-  padding: 7em;
-  height: calc(100vh - 14em);
-  color: white;
+  height: calc(100vh);
   scroll-snap-align: start;
 }
 
