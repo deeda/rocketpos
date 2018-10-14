@@ -78,7 +78,7 @@ p {
 }
 
 body > .container-fluid {
-  padding: 60px 15px 0;
+  padding: 60px 0px 0;
 }
 
 .container-fluid .text-muted {
@@ -313,7 +313,7 @@ img {
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 30px;
+  height: 0;
   background-color: #000000;
   color: #f0f0e6;
 }
