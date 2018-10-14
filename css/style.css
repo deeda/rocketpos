@@ -175,7 +175,8 @@ a {
 
 .navbar-brand-centered {
   position: absolute;
-  left: 50%;
+  left: 47%;
+  padding-top: 0.5em;
   display: block;
   width: 50px;
   text-align: center;
