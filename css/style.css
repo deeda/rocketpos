@@ -176,7 +176,7 @@ img {
   padding: 15% 0 10% 0;
   height: 100vh;
   display: flex;
-  background: url("../images/rocket_bg.jpg") no-repeat;
+  background: url("../images/rocket_bkgd.jpg") no-repeat;
   background-size: cover;
 }
 .cover.bottom {
@@ -320,7 +320,7 @@ img {
 
 #scrollIcon,
 #scrollTopIcon {
-  margin-top: 200px;
+  margin-top: 100px;
   padding: 10px;
   font-size: 1.5em;
   color: #8bd600;
