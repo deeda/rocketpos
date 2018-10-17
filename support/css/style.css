@@ -14,6 +14,10 @@ h1 {
   line-height: 26.4px;
 }
 
+.carousel.is-fullscreen .carousel-cell {
+  height: 100%;
+}
+
 body {
   font-family: sans-serif;
   background-color: #080b26;
