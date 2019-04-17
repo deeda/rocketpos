@@ -33,7 +33,6 @@
   .pull-right-lg {
     float: right !important;
   }
-
   .pull-left-lg {
     float: left !important;
   }
@@ -54,6 +53,7 @@ img {
 body {
   height: 100%;
   font-family: "Lato", sans-serif;
+
   background-color: #000116;
   /* Margin bottom by footer height */
   margin-bottom: 60px;
@@ -70,6 +70,7 @@ h5 {
 
 p {
   font-family: "Lato", sans-serif;
+
   color: #fff;
 }
 
@@ -171,7 +172,7 @@ a {
 
 .navbar-brand-centered {
   position: absolute;
-  left: 45%;
+  left: 48.5%;
   padding-top: 0.5em;
   display: block;
   width: 50px;
@@ -192,7 +193,10 @@ a {
 .cover.bottom {
   padding: 10% 0 10% 0;
 }
-
+.row {
+  margin-right: 0px;
+  margin-left: 0px;
+}
 .headline {
   padding-top: 6.25em;
 }
@@ -257,10 +261,12 @@ a {
 }
 .portfolio-projects--btn:hover {
   background: #07374a;
+
   color: #f0f0e6;
 }
 .portfolio-projects--image {
   margin-bottom: 1.875em;
+
   padding-top: 5%;
 }
 
@@ -277,6 +283,7 @@ a {
   /* Set the fixed height of the footer here */
   height: 0;
   background-color: #000000;
+
   color: #f0f0e6;
 }
 
@@ -287,6 +294,7 @@ a {
   font-size: 1.5em;
   color: #00b7ff;
   border: solid 2px #00b7ff;
+
   border-radius: 50%;
 }
 
@@ -294,6 +302,7 @@ a {
   margin-top: 10px;
   font-size: 1em;
   color: #00b7ff;
+
   border-color: #00b7ff;
 }
 
