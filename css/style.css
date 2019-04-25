@@ -77,6 +77,10 @@ body > .container-fluid {
   padding: 60px 0px 0;
 }
 
+body > .container-privacy {
+  padding: 30px 30px 30px 30px;
+}
+
 .container-fluid .text-muted {
   margin: 20px 0;
 }
