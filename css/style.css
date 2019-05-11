@@ -206,7 +206,7 @@ a {
   padding: 15% 0 10% 0;
   height: 100vh;
   display: flex;
-  background: url("../images/landing_back.jpg") no-repeat;
+  background: url("../images/site/landing_back.jpg") no-repeat;
   background-size: cover;
 }
 .cover.bottom {
