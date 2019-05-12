@@ -4,7 +4,7 @@
     <title>5_create_en</title>
     <desc>Created with Sketch.</desc>
     <g id="5_create_en" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect fill="#00B0FF" x="0" y="0" width="570" height="792"></rect>
+        <rect id="Rectangle" fill="#00B0FF" x="0" y="0" width="570" height="792" rx="16"></rect>
         <g id="Group-3" transform="translate(12.000000, 225.000000)">
             <rect id="Rectangle" fill="#0B0C24" x="0" y="0" width="547" height="547" rx="13"></rect>
             <path d="M12,286 L189,286 L189,388 L25,388 C17.8202983,388 12,382.179702 12,375 L12,286 Z" id="Rectangle" fill="#0098CE"></path>

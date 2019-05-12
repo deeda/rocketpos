@@ -4,7 +4,7 @@
     <title>1_create_en</title>
     <desc>Created with Sketch.</desc>
     <g id="1_create_en" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect fill="#00B0FF" x="0" y="0" width="570" height="792"></rect>
+        <rect id="Rectangle" fill="#00B0FF" x="0" y="0" width="570" height="792" rx="16"></rect>
         <path d="M47,226 L524,226 C530.627417,226 536,231.372583 536,238 L536,753 L35,753 L35,238 C35,231.372583 40.372583,226 47,226 Z" id="Rectangle" fill="#080B26"></path>
         <path d="M43,634 L528,634 C532.418278,634 536,637.581722 536,642 L536,753 L35,753 L35,642 C35,637.581722 38.581722,634 43,634 Z" id="Rectangle" fill="#99CC00"></path>
         <polygon id="+" fill="#000000" points="290.327637 687.318848 303.547852 687.318848 303.547852 696.876953 290.327637 696.876953 290.327637 711.818359 280.256836 711.818359 280.256836 696.876953 267 696.876953 267 687.318848 280.256836 687.318848 280.256836 673 290.327637 673"></polygon>
