@@ -27,7 +27,6 @@ body {
   /* 570px 792px*/
   max-width: 570px;
   max-height: 792px;
-  object-fit: fill;
 }
 
 .carousel-cell {
@@ -37,7 +36,7 @@ body {
   background: #080b26;
   border-radius: 10px;
   background-position: center;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
