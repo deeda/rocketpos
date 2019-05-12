@@ -25,8 +25,8 @@ body {
 
 .carousel-image {
   /* 570px 792px*/
-  min-width: 570px;
-  height: 100%;
+  max-width: 570px;
+  max-height: 792px;
   object-fit: contain;
 }
 
@@ -35,9 +35,10 @@ body {
   height: 650px;
   margin-right: 10px;
   background: #080b26;
-  border-radius: 5px;
-  background-position: center center;
-  background-size: cover;
+  border-radius: 10px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .flickity-page-dots .dot {
